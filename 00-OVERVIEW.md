@@ -5,8 +5,8 @@
 - **Location:** Siskiyou County, Northern California — 15 min off I-5
 - **Target Date:** Saturday, May 17, 2026
 - **Party Size:** 3 (Daniel + 2 buddies)
-- **Type:** Non-technical snow climb / mountaineering
-- **Duration:** 2–3 days recommended (1 day approach + acclimatize, 1 day summit, option for extra day)
+- **Type:** Ski mountaineering — skin up, bootpack the summit, ski down
+- **Duration:** 2–3 days recommended (1 day approach + acclimatize, 1 day summit + ski descent, option for extra day)
 
 ## Quick Facts
 | Item | Detail |
@@ -33,7 +33,8 @@
 | `08-RESOURCES.md` | GPX links, maps, guide services, rentals, links |
 
 ## Decision Points for the Group
-1. **Route choice** — Avalanche Gulch (most popular, best May conditions) vs Clear Creek (less crowded, more scree) vs Hotlum-Bolam (more technical, most remote)
-2. **1-day vs 2-day attempt** — camp at Helen Lake (10,400 ft) or single push from Bunny Flat?
-3. **Guided vs self-guided** — all three have experience? If not, guide services available
-4. **Gear ownership vs rental** — crampons, ice axe, mountaineering boots available?
+1. **Route choice** — Avalanche Gulch (best May skiing, most popular) vs Clear Creek vs Hotlum-Bolam
+2. **1-day vs 2-day attempt** — camp at Helen Lake (10,400 ft) or car-to-car ski in a single push?
+3. **Guided vs self-guided** — all three have backcountry ski + mountaineering experience? If not, guide services available (Shasta Mountain Guides does ski trips)
+4. **Gear** — AT/randonee setup, crampons, ice axe, avalanche beacon/probe/shovel. Does everyone have a full kit?
+5. **Ski stash strategy** — leave skis at base of Red Banks and bootpack to summit? Or carry skis on pack all the way up?

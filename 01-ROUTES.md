@@ -47,12 +47,23 @@
 - Summit pinnacle is a small rocky area
 - **Navigation critical in whiteout** — easy to wander off wrong side
 
+### Ski Descent Notes
+- **Avalanche Gulch is the #1 ski descent on Shasta.** 5,000+ vertical feet from Red Banks to Bunny Flat.
+- Mid-May corn snow: overnight freeze firms the surface, morning sun softens it into perfect corn by 8–9 AM. This is the window.
+- Skin up from Bunny Flat through Horse Camp and up the gulch to Helen Lake. Continue skinning or transition to bootpack as angle steepens approaching Red Banks.
+- **Stash skis at base of Red Banks** (~12,000 ft) and bootpack with crampons + ice axe to summit.
+- Ski down from Red Banks. Wide open gulch, few obstacles, sustained pitch.
+- Below Helen Lake the angle mellows — cruise through to Horse Camp and thread the forest trail back to Bunny Flat.
+- **Timing is everything:** Ski the descent at 8–9 AM for ideal corn. Too early = ice. Too late = mush + wet slides.
+
 ### Why Choose This for May 17
 - Best snow coverage in mid-May — smooth, consolidated snow surface
+- Prime corn snow skiing conditions — the freeze-thaw cycle is dialed in May
 - Rockfall risk lower than summer (snow covers loose rock)
 - Long daylight (sunrise ~5:50 AM, sunset ~8:20 PM)
 - Most trip reports and beta available for this route
 - Easiest access (Bunny Flat road typically open by mid-May)
+- Continuous snow coverage to trailhead = ski all the way to the car
 
 ---
 
@@ -129,8 +140,9 @@
 
 ## Recommendation for Your Team
 
-**Avalanche Gulch.** No question for a mid-May date with a 3-person team. It's the classic for a reason:
-- Best snow conditions of the year
-- Most well-documented route
+**Avalanche Gulch.** No question for a mid-May ski descent with a 3-person team. It's the classic for a reason:
+- Best snow conditions of the year — prime corn skiing
+- 5,000+ vertical feet of skiing from Red Banks to the car
+- Most well-documented route with the most ski descent beta
 - Technical enough to be real mountaineering but not requiring glacier skills
-- Camp at Helen Lake, summit push starting 1–2 AM
+- Camp at Helen Lake, summit push starting 1–2 AM, ski down at 8–9 AM in perfect corn

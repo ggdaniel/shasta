@@ -31,30 +31,39 @@
 | 6:00 PM | Final weather check (inReach/satellite). Review route and waypoints on GPS. |
 | 6:30 PM | **Sleep.** You need every minute. Earplugs help. |
 
-### Day 2 — Sunday, May 18: SUMMIT DAY
+### Day 2 — Sunday, May 18: SUMMIT DAY + SKI DESCENT
 | Time | Activity | Elevation |
 |------|----------|-----------|
 | 12:00 AM | Wake up. Force yourself to eat (oatmeal, bar, hot drink). | 10,443 ft |
-| 12:30 AM | Gear up: all layers on, crampons on, headlamp on, ice axe ready. | |
-| **1:00 AM** | **DEPART HELEN LAKE.** Slow, steady, rest-step pace. | 10,443 ft |
-| 2:30 AM | Pass The Heart. Terrain steepens. | ~11,200 ft |
-| 3:30–4:30 AM | **Red Banks.** Climb through the chute. Helmet on. Stay tight. This is the crux. | ~12,000 ft |
+| 12:30 AM | Gear up: all layers, crampons, headlamp, ice axe. Skis on pack or skin from camp. | |
+| **1:00 AM** | **DEPART HELEN LAKE.** Skin or bootpack up the gulch. Slow, steady, rest-step pace. | 10,443 ft |
+| 2:30 AM | Pass The Heart. Terrain steepens. Likely transition from skinning to bootpacking here. | ~11,200 ft |
+| 3:00–3:30 AM | **Base of Red Banks. STASH SKIS HERE.** Mark the spot with a wand or GPS waypoint. Switch to crampons + ice axe. | ~12,000 ft |
+| 3:30–4:30 AM | **Bootpack Red Banks chute.** Helmet on. Stay tight. This is the crux. | ~12,000–12,400 ft |
 | 5:00 AM | Above Red Banks. Brief rest. Eat, drink. Dawn is breaking. | ~12,500 ft |
 | 5:30–6:30 AM | Cross Misery Hill. Aptly named. Grind it out. | ~13,000 ft |
 | 7:00–8:00 AM | **SUMMIT (14,179 ft).** Photos. Soak it in. Don't linger — 10–15 min max. | 14,179 ft |
-| 8:00–8:30 AM | Begin descent. Reverse route. Down-climb Red Banks carefully. | |
-| 9:30–10:00 AM | Below Red Banks. Rockfall zone cleared before sun warms it. | ~11,500 ft |
-| 10:30–11:00 AM | **Back at Helen Lake.** Break camp. Pack up. | 10,443 ft |
-| 11:30 AM | Depart Helen Lake. Glissade if conditions allow (huge time saver). | |
-| 1:00–2:00 PM | **Back at Bunny Flat.** Done. | 6,950 ft |
-| 2:30 PM | Drive to town. Lunch/dinner. Celebrate. Shower. | |
-| Evening | Drive home, or stay another night to rest. | |
+| 8:00–8:30 AM | Bootpack descent to Red Banks. Down-climb carefully. | |
+| 8:30–9:00 AM | **Retrieve skis at Red Banks stash.** Transition: skins off, boots to ski mode, click in. | ~12,000 ft |
+| **9:00 AM** | **SKI DESCENT BEGINS.** Corn snow should be softening perfectly by now. | 12,000 ft |
+| 9:15 AM | Ski through Helen Lake area. Quick stop to break camp if pre-packed, or ski past and return. | 10,443 ft |
+| 9:30 AM | Continue skiing down Avalanche Gulch. Wide open, sustained pitch. The payoff. | |
+| 9:45 AM | Through Horse Camp area. Thread the forest trail. Snow coverage to trailhead in mid-May. | ~7,880 ft |
+| **10:00–10:15 AM** | **BUNNY FLAT.** Done. 5,000 vertical feet skied in ~1 hour. | 6,950 ft |
+| 10:30 AM | Load car. Drive to town. | |
+| 11:00 AM | Lunch in town. Celebrate. Shower. | |
+| Afternoon | Drive home, or stay another night to rest. | |
+
+**Alternative camp strategy:** Pre-pack camp at Helen Lake before summit push (stuff everything in tent vestibule). On ski descent, stop briefly at Helen Lake to grab camp gear, strap to pack, then ski out. Saves hiking back up.
 
 ### Timing Notes
-- **Total summit day:** ~10–12 hours round trip from Helen Lake
-- **Elevation gain summit day:** ~3,736 ft
+- **Total summit day:** ~8–10 hours from Helen Lake departure to car (much faster than hiking out)
+- **Elevation gain summit day:** ~3,736 ft (bootpack)
+- **Ski descent vertical:** ~5,000 ft (Red Banks to Bunny Flat)
+- **Ski descent time:** ~45 min–1 hour
 - **Turnaround time:** If not at summit by **9:00 AM**, turn back. Non-negotiable.
-- **Be below Red Banks by 10:00 AM** to avoid rockfall window.
+- **Ideal corn window:** 8:30–10:00 AM. Sun hits the gulch and softens the overnight freeze into perfect corn. Earlier = too icy to enjoy. Later = too soft + wet slide risk.
+- **Break camp BEFORE or DURING descent** — don't ski past Helen Lake and have to hike back up.
 
 ---
 
@@ -62,20 +71,21 @@
 
 | Day | Plan |
 |-----|------|
-| Day 1 (May 17) | Drive to Bunny Flat. Hike to Helen Lake. Camp. Summit push at 1 AM. |
-| Day 2 (May 18) | Summit, descend, drive home. |
+| Day 1 (May 17) | Drive to Bunny Flat. Skin to Helen Lake. Camp. Summit push at 1 AM. |
+| Day 2 (May 18) | Summit, ski descent, drive home. |
 
 Cuts out the acclimatization day. Higher risk of AMS. Only if all three team members have altitude experience.
 
 ---
 
-## Option C: Single-Day Push (Not Recommended)
+## Option C: Single-Day Push (Car-to-Car Ski)
 
-- Bunny Flat to summit and back in one push: 12–16 hours, ~14.5 miles, 7,200 ft gain
-- Start at midnight from the trailhead
-- Requires exceptional fitness and altitude tolerance
-- High risk of exhaustion-related accidents on descent
-- Only reasonable if team is already acclimatized (e.g., living at altitude)
+- Bunny Flat to summit and ski back in one push: 10–14 hours
+- Start at midnight from the trailhead, skin up
+- Summit by 8 AM, ski back to car by 10 AM
+- Requires exceptional fitness, altitude tolerance, and skinning efficiency
+- High risk of exhaustion — but ski descent eliminates the brutal hiking downhill
+- More viable than a hike-only single-day push because the descent is so fast
 
 ---
 
