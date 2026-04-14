@@ -33,6 +33,7 @@
 | [08-RESOURCES.md](08-RESOURCES.md) | GPX links, maps, guide services, rentals, links |
 | [09-DEEP-DIVES.md](09-DEEP-DIVES.md) | Boots, snow camping, waste management deep dives |
 | [10-SKI-DESCENTS.md](10-SKI-DESCENTS.md) | All ski descent options compared |
+| [11-TODO.md](11-TODO.md) | **Action items: housing, gear rentals, reservations** |
 
 ## Decision Points for the Group
 1. **Route choice** — [Avalanche Gulch](01-ROUTES.md#route-1-avalanche-gulch--recommended-for-may) (best May skiing, most popular) vs [Clear Creek](01-ROUTES.md#route-2-clear-creek) vs [Hotlum-Bolam](01-ROUTES.md#route-3-hotlum-bolam-ridge). See [Ski Descents](10-SKI-DESCENTS.md) for descent-specific comparison.
