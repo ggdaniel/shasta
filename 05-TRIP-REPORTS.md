@@ -1,5 +1,7 @@
 # Mount Shasta — Trip Reports & Conditions Intel
 
+> See also: [Weather](02-WEATHER.md) for historical conditions, [Safety](06-SAFETY.md) for hazard details referenced here, and [Routes](01-ROUTES.md) for the route descriptions these reports apply to.
+
 ## 2025 Season Summary (from Shasta Avalanche Center, May 7, 2025)
 
 **Key takeaways from the most recent climbing advisory:**
@@ -60,7 +62,7 @@
 - **Underestimated descent.** Tired after summit, sloppy foot placement, slipped on firm snow above Red Banks. Long slide.
 
 ### Key Pattern
-**Almost every "went wrong" report involves starting too late or ignoring weather signs.** The mountain rewards early starts and punishes complacency.
+**Almost every "went wrong" report involves starting too late or ignoring weather signs.** The mountain rewards early starts and punishes complacency. See the [Itinerary](07-ITINERARY.md) for the summit day timeline designed around these lessons.
 
 ---
 
@@ -69,3 +71,5 @@
 1. **"The Mt. Shasta Book" by Andy Selters & Michael Zanger** — The definitive guidebook. Route descriptions, history, maps.
 2. **"Freedom of the Hills" (relevant chapters)** — Crampon technique, self-arrest, snow camping, altitude.
 3. **Shasta Avalanche Center YouTube** — Self-arrest technique video and conditions updates.
+
+See [Resources](08-RESOURCES.md#books--references) for the full reading list and [Resources: Apps](08-RESOURCES.md#apps-to-download) for what to download before the trip.

@@ -1,5 +1,7 @@
 # Mount Shasta — Safety, Hazards & Emergency
 
+> See also: [Weather](02-WEATHER.md) for go/no-go conditions, [Gear List](03-GEAR-LIST.md) for required safety gear, [Itinerary](07-ITINERARY.md) for turnaround times, and [Ski Descents](10-SKI-DESCENTS.md) for descent-specific hazards.
+
 ## Top Hazards (Ranked by Frequency)
 
 ### 1. Slip and Fall on Steep Snow/Ice
@@ -27,7 +29,7 @@
 ### 4. Avalanche
 - Wind slabs form after storms, even without active snowfall
 - Wet loose avalanches on warm afternoons
-- **Prevention:** Carry beacon, shovel, probe (per Shasta Avalanche Center recommendation). Check avalanche advisory before climbing. Avoid terrain traps.
+- **Prevention:** Carry beacon, shovel, probe — [mandatory for ski descent](03-GEAR-LIST.md#%EF%B8%8F-avalanche-safety--required-for-ski-descent). Check [avalanche advisory](02-WEATHER.md#weather-monitoring--check-these-before-and-during-trip) before climbing. Avoid terrain traps.
 
 ### 5. Altitude Illness
 

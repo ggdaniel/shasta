@@ -1,5 +1,7 @@
 # Mount Shasta — Deep Dives: Boots, Snow Camping, Waste Management
 
+> See also: [Gear List](03-GEAR-LIST.md) for the full equipment checklist, [Itinerary](07-ITINERARY.md) for when you'll use this knowledge, and [Safety](06-SAFETY.md) for hazards at camp and on the mountain.
+
 ---
 
 ## 1. Ski Boot Strategy: Wear the Whole Time vs. Carry & Switch

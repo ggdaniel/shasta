@@ -1,5 +1,7 @@
 # Mount Shasta — Mid-May Weather & Historical Conditions
 
+> See also: [Routes](01-ROUTES.md) for how weather affects route choice, [Itinerary](07-ITINERARY.md) for summit day timing based on freeze-thaw, and [Safety](06-SAFETY.md) for go/no-go decision criteria.
+
 ## Town of Mount Shasta (3,586 ft) — May Averages
 | Metric | Value |
 |--------|-------|
@@ -43,7 +45,7 @@ This is the single most important weather concept for your climb:
 3. **Late morning (9 AM–noon):** Snow becomes soft and sloppy. Rockfall increases dramatically (sun loosens rocks). Post-holing begins. Avalanche risk rises.
 4. **Afternoon (noon+):** Worst conditions. Wet snow, active rockfall, possible afternoon thunderstorms. You should be well off the upper mountain by noon.
 
-**Bottom line: Leave Helen Lake at 1–2 AM. Summit by 8–9 AM. Be below the Red Banks by 10 AM. Back to Helen Lake by noon.**
+**Bottom line: Leave Helen Lake at 1–2 AM. Summit by 8–9 AM. Be below the Red Banks by 10 AM. Back to Helen Lake by noon.** See the full [Itinerary](07-ITINERARY.md) and [Ski Descent timing](10-SKI-DESCENTS.md#descent-1-avalanche-gulch--the-classic--recommended).
 
 ## Historical Mid-May Conditions (Typical Year)
 
@@ -89,4 +91,4 @@ Mid-May is generally considered **prime climbing season** for Shasta. You're in 
 - Freeze-thaw cycle is reliable
 - Rockfall risk is lower than summer (snow covers loose rock)
 
-The main risk is a late-season storm system rolling through. Have a flexible backup day (May 18) if possible.
+The main risk is a late-season storm system rolling through. Have a flexible backup day (May 18) if possible. See [Itinerary: Backup Plan](07-ITINERARY.md#backup-plan).

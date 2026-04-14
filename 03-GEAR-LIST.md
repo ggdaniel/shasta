@@ -1,5 +1,7 @@
 # Mount Shasta — Complete Gear List (3-Person Team, May, Ski Descent)
 
+> See also: [Boot Strategy Deep Dive](09-DEEP-DIVES.md#1-ski-boot-strategy-wear-the-whole-time-vs-carry--switch) for whether to wear AT boots the whole time, [Snow Camping Deep Dive](09-DEEP-DIVES.md#2-snow-camping-at-helen-lake--the-full-breakdown) for shelter setup, and [Waste Management Deep Dive](09-DEEP-DIVES.md#3-human-waste-management-the-practical-guide) for WAG bag details.
+
 ## ⛏️ Technical Gear — NON-NEGOTIABLE
 
 These items have no substitutes. If you don't have them, don't go.
@@ -132,7 +134,7 @@ Skiing the descent makes avalanche gear **mandatory**, not optional.
 | **Avalanche shovel** | Metal blade. Know companion rescue protocol. |
 | **Inclinometer** | On phone or compass. Measure slope angles. |
 
-**All three team members must carry beacon, probe, and shovel. Practice a companion rescue scenario before the trip.**
+**All three team members must carry beacon, probe, and shovel. Practice a companion rescue scenario before the trip.** See [Safety](06-SAFETY.md) for full hazard breakdown.
 
 Avalanche risk on descent:
 - Skiing at 8–9 AM = low risk (snow still consolidated from overnight freeze)

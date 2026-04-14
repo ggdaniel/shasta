@@ -1,5 +1,7 @@
 # Mount Shasta — Ski Descent Options: The Complete Guide
 
+> See also: [Routes](01-ROUTES.md) for ascent route descriptions, [Weather](02-WEATHER.md) for the freeze-thaw corn cycle, [Gear List](03-GEAR-LIST.md) for ski-specific gear and the [transition plan](03-GEAR-LIST.md#-ski-transition-plan--where-you-ski-vs-bootpack), and [Safety](06-SAFETY.md) for descent hazards.
+
 Mount Shasta is one of the great ski mountaineering objectives in the lower 48. A massive, freestanding stratovolcano with 7,000+ feet of vertical from multiple aspects — wide-open glacial bowls, steep couloirs, and everything in between. Mid-May is the sweet spot: consolidated snowpack, reliable freeze-thaw corn cycles, long daylight, and coverage all the way to the road.
 
 Here's every viable ski descent option, ranked from most accessible to most committing.
@@ -19,7 +21,7 @@ Here's every viable ski descent option, ranked from most accessible to most comm
 | Average pitch | 20–25° (Helen Lake to Horse Camp) |
 | Character | Wide-open bowl → narrowing gulch → mellow runout through forest |
 | Corn window | 8:00–10:30 AM (sun hits south face early) |
-| Approach | Bunny Flat (6,950 ft), skin via Horse Camp |
+| Approach | Bunny Flat (6,950 ft), skin via Horse Camp — see [Permits & Logistics](04-PERMITS-LOGISTICS.md#trailhead-access--bunny-flat) |
 | Crowds | Moderate. You'll share the descent with other skiers and climbers. |
 
 ### The Descent, Section by Section
@@ -71,7 +73,7 @@ Here's every viable ski descent option, ranked from most accessible to most comm
 - ❌ Rockfall hazard above Helen Lake in late morning
 
 ### Skiing Ability Required
-Confident intermediate+ backcountry skier. You need to make controlled turns on 35° slopes at 12,000 ft with a pack. If you can ski a black diamond in variable conditions without falling, you can ski Avalanche Gulch. The altitude and the pack are the challenge, not the technical skiing.
+Confident intermediate+ backcountry skier. You need to make controlled turns on 35° slopes at 12,000 ft with a pack. If you can ski a black diamond in variable conditions without falling, you can ski Avalanche Gulch. The altitude and the pack are the challenge, not the technical skiing. See [Safety: Altitude Illness](06-SAFETY.md#5-altitude-illness) for how altitude affects performance and [Gear List](03-GEAR-LIST.md) for pack weight estimates.
 
 ### 📸 Visuals & Reference
 - **Aerial view of Avalanche Gulch:** https://summitborn.com/mount-shasta-avalanche-gulch-route-guide/ (scroll for annotated photos of the full line from the south)

@@ -1,5 +1,7 @@
 # Mount Shasta — Resources, GPX, Maps & Links
 
+> See also: [Routes](01-ROUTES.md) for route descriptions that use these waypoints, [Ski Descents](10-SKI-DESCENTS.md) for descent-specific references, [Gear List](03-GEAR-LIST.md) for what to rent, and [Permits & Logistics](04-PERMITS-LOGISTICS.md) for town services.
+
 ## GPX Files & Route Tracks
 
 ### Avalanche Gulch (Primary Route)
@@ -117,6 +119,7 @@
 ## Training Before the Trip
 
 ### Physical Preparation (Start Now — 4 Weeks Out)
+See [Safety: Altitude Illness](06-SAFETY.md#5-altitude-illness) for what your body will face above 10,000 ft.
 - **Cardio:** Stair climber, incline treadmill, uphill hiking with a weighted pack (30–40 lbs)
 - **Legs:** Squats, lunges, step-ups, calf raises
 - **Core:** Planks, Russian twists (core stabilizes on steep snow)

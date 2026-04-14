@@ -1,5 +1,7 @@
 # Mount Shasta — Proposed Itinerary
 
+> See also: [Routes](01-ROUTES.md) for the route description, [Weather](02-WEATHER.md) for the freeze-thaw timing this schedule is built around, [Permits & Logistics](04-PERMITS-LOGISTICS.md) for travel and access, and [Ski Descents](10-SKI-DESCENTS.md) for the descent breakdown.
+
 ## Option A: 3-Day Trip (RECOMMENDED)
 
 ### Day 0 — Friday, May 16: Travel & Acclimatize
@@ -8,8 +10,8 @@
 | AM | Fly into Redding (RDD) or Medford (MFR). Pick up rental car. |
 | 12:00 PM | Drive to Mount Shasta town (~1 hr from Redding) |
 | 1:00 PM | Check into lodging (motel, Airbnb, or campground) |
-| 2:00 PM | Visit **Ranger Station** (204 W Alma St): buy summit passes ($25 × 3 = $75), pick up WAG bags, get current conditions report |
-| 3:00 PM | Visit **The Fifth Season** (300 N Mt Shasta Blvd): pick up rental gear, get latest beta from staff |
+| 2:00 PM | Visit **Ranger Station** (204 W Alma St): buy [summit passes](04-PERMITS-LOGISTICS.md#1-summit-pass--25person) ($25 × 3 = $75), pick up [WAG bags](09-DEEP-DIVES.md#where-to-get-them), get current conditions report |
+| 3:00 PM | Visit **The Fifth Season** (300 N Mt Shasta Blvd): pick up [rental gear](08-RESOURCES.md#gear-rental), get latest beta from staff |
 | 4:00 PM | Optional acclimatization hike — drive up Everitt Memorial Hwy to Bunny Flat, hike to Horse Camp and back (1.8 mi each way, 930 ft gain). Gets you to 7,880 ft. |
 | 6:00 PM | Dinner in town. Organize and sort gear. Final pack. |
 | 8:00 PM | Check weather one final time. Set alarm for 5:30 AM. |
@@ -23,7 +25,7 @@
 | 8:00 AM | Arrive Horse Camp (7,880 ft). Water up from spring. Short break. |
 | 8:30 AM | Continue up Avalanche Gulch snowfield toward Helen Lake. |
 | 11:30 AM–12:30 PM | **Arrive Helen Lake (10,443 ft).** ~4–5 hours from Bunny Flat with full packs. |
-| 1:00 PM | Set up camp. Dig tent platforms in snow. Build wind walls if needed. |
+| 1:00 PM | Set up camp. [Dig tent platforms, build wind walls, anchor tent](09-DEEP-DIVES.md#2-snow-camping-at-helen-lake--the-full-breakdown). |
 | 2:00 PM | Melt snow for water. Eat lunch. Rest. |
 | 3:00 PM | Short acclimatization walk — hike up 500 ft above camp, then back down. Helps your body adjust. |
 | 4:00 PM | Prep summit day gear: pack summit pack, layout layers, test headlamp, fill water bottles. |

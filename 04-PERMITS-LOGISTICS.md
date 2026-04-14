@@ -1,5 +1,7 @@
 # Mount Shasta — Permits & Logistics
 
+> See also: [Itinerary](07-ITINERARY.md) for the day-by-day schedule, [Gear List](03-GEAR-LIST.md) for what to bring, and [Resources](08-RESOURCES.md) for rental shops and guide services.
+
 ## Permits Required
 
 ### 1. Summit Pass — $25/person
@@ -56,12 +58,12 @@
 ## Camping
 
 ### Option 1: Helen Lake (10,443 ft) — RECOMMENDED
-- Snow camping on the mountain
+- Snow camping on the mountain — see [Snow Camping Deep Dive](09-DEEP-DIVES.md#2-snow-camping-at-helen-lake--the-full-breakdown) for full setup guide
 - 3–4 hour approach from Bunny Flat
 - Flat snow benches for tents
 - Wind protection on south-facing slopes
 - No water (melt snow)
-- No facilities (WAG bags)
+- No facilities — [WAG bags required](09-DEEP-DIVES.md#3-human-waste-management-the-practical-guide)
 - This is where 90% of Avalanche Gulch climbers camp
 
 ### Option 2: Horse Camp (7,880 ft)
@@ -107,8 +109,8 @@ Recommended: stay in the town of Mount Shasta the night before to acclimatize to
 
 | When | Action |
 |------|--------|
-| **Now (April)** | Book flights/rental car. Reserve gear rentals at Fifth Season. |
-| **1 week before (May 10)** | Check weather forecast, Shasta Avalanche Center, road status. |
+| **Now (April)** | Book flights/rental car. Reserve [gear rentals](08-RESOURCES.md#gear-rental). |
+| **1 week before (May 10)** | Check [weather forecast](02-WEATHER.md#weather-monitoring--check-these-before-and-during-trip), Shasta Avalanche Center, road status. |
 | **3 days before (May 14)** | Confirm weather window. Pack gear. Ship anything needed. |
 | **May 16 (Friday)** | Travel to Mt Shasta town. Check in. Visit ranger station for permits + WAG bags. Visit Fifth Season for any last gear/beta. Dinner. Sleep early. |
 | **May 17 (Saturday)** | Drive to Bunny Flat. Hike to Helen Lake. Set camp. Rest. Eat. Sleep by 6–7 PM. |
